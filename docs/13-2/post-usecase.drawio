@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="KCfouMxATlvWV1aLNnjJ">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="brSW1luwi_O1CuPBhohb-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="投稿アプリ" vertex="1">
+          <mxGeometry height="590" width="370" x="220" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="brSW1luwi_O1CuPBhohb-15" edge="1" parent="1" source="brSW1luwi_O1CuPBhohb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="brSW1luwi_O1CuPBhohb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brSW1luwi_O1CuPBhohb-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="未ログイン利用者" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="brSW1luwi_O1CuPBhohb-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="ユーザーを登録する&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="295" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brSW1luwi_O1CuPBhohb-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;ログインする&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="295" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="brSW1luwi_O1CuPBhohb-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="ログアウトする" vertex="1">
+          <mxGeometry height="60" width="220" x="295" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="brSW1luwi_O1CuPBhohb-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="投稿を一覧表示する&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="295" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="brSW1luwi_O1CuPBhohb-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="投稿を編集する" vertex="1">
+          <mxGeometry height="60" width="220" x="295" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="brSW1luwi_O1CuPBhohb-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="投稿を削除する" vertex="1">
+          <mxGeometry height="60" width="220" x="295" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="brSW1luwi_O1CuPBhohb-18" edge="1" parent="1" source="brSW1luwi_O1CuPBhohb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="brSW1luwi_O1CuPBhohb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brSW1luwi_O1CuPBhohb-19" edge="1" parent="1" source="brSW1luwi_O1CuPBhohb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="brSW1luwi_O1CuPBhohb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brSW1luwi_O1CuPBhohb-20" edge="1" parent="1" source="brSW1luwi_O1CuPBhohb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="brSW1luwi_O1CuPBhohb-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brSW1luwi_O1CuPBhohb-21" edge="1" parent="1" source="brSW1luwi_O1CuPBhohb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="brSW1luwi_O1CuPBhohb-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brSW1luwi_O1CuPBhohb-13" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="ログイン済利用者" vertex="1">
+          <mxGeometry height="60" width="30" x="720" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="brSW1luwi_O1CuPBhohb-14" edge="1" parent="1" source="brSW1luwi_O1CuPBhohb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="brSW1luwi_O1CuPBhohb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
