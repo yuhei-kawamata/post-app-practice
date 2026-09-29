@@ -1,0 +1,204 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="Z7pjZvWl4O6dzm0BlsrO">
+    <mxGraphModel dx="774" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sfmMijFApPu40FoLjzgO-18" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="sfmMijFApPu40FoLjzgO-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-19" connectable="0" parent="sfmMijFApPu40FoLjzgO-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="タイムラインへ" vertex="1">
+          <mxGeometry relative="1" x="0.1727" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-27" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sfmMijFApPu40FoLjzgO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-28" connectable="0" parent="sfmMijFApPu40FoLjzgO-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ログイン" vertex="1">
+          <mxGeometry relative="1" x="0.2333" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-29" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sfmMijFApPu40FoLjzgO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-30" connectable="0" parent="sfmMijFApPu40FoLjzgO-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="アカウントを作成" vertex="1">
+          <mxGeometry relative="1" x="-0.1416" y="-1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="トップ画面" vertex="1">
+          <mxGeometry height="50" width="120" x="90" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-31" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="sfmMijFApPu40FoLjzgO-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="85" />
+              <mxPoint x="570" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-32" connectable="0" parent="sfmMijFApPu40FoLjzgO-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ログイン" vertex="1">
+          <mxGeometry relative="1" x="-0.2078" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-34" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="sfmMijFApPu40FoLjzgO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-35" connectable="0" parent="sfmMijFApPu40FoLjzgO-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="アカウントを作成" vertex="1">
+          <mxGeometry relative="1" x="-0.3239" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ログイン画面" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-36" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="sfmMijFApPu40FoLjzgO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-37" connectable="0" parent="sfmMijFApPu40FoLjzgO-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="登録" vertex="1">
+          <mxGeometry relative="1" x="-0.5063" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-38" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="sfmMijFApPu40FoLjzgO-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="210" />
+              <mxPoint x="490" y="35" />
+              <mxPoint x="390" y="35" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-39" connectable="0" parent="sfmMijFApPu40FoLjzgO-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="登録済みですか？" vertex="1">
+          <mxGeometry relative="1" x="-0.0194" y="-1" as="geometry">
+            <mxPoint y="73" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ユーザー登録画面" vertex="1">
+          <mxGeometry height="60" width="120" x="324" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-43" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="sfmMijFApPu40FoLjzgO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-44" connectable="0" parent="sfmMijFApPu40FoLjzgO-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="編集" vertex="1">
+          <mxGeometry relative="1" x="-0.04" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-51" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sfmMijFApPu40FoLjzgO-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="250" />
+              <mxPoint x="70" y="250" />
+              <mxPoint x="70" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-52" connectable="0" parent="sfmMijFApPu40FoLjzgO-51" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ログアウト" vertex="1">
+          <mxGeometry relative="1" x="0.3143" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="投稿一覧画面" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-55" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="sfmMijFApPu40FoLjzgO-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="500" />
+              <mxPoint x="70" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-56" connectable="0" parent="sfmMijFApPu40FoLjzgO-55" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="つぶやき投稿アプリ" vertex="1">
+          <mxGeometry relative="1" x="0.2148" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-57" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-58" connectable="0" parent="sfmMijFApPu40FoLjzgO-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="更新" vertex="1">
+          <mxGeometry relative="1" x="-0.2067" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-59" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="sfmMijFApPu40FoLjzgO-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-60" connectable="0" parent="sfmMijFApPu40FoLjzgO-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="キャンセル" vertex="1">
+          <mxGeometry relative="1" x="-0.297" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="投稿編集画面" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="・welcome.blade.php&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;タイムラインへ（⇒posts.index）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ログアウト（⇒&#39;/&#39;）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ログイン（⇒login）&lt;/div&gt;&lt;div&gt;アカウントを作成(⇒register)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="610" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="・login.blade.php&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ログイン(⇒/posts(posts.index))&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;アカウントを作成(⇒register)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="610" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="・register.blade.php&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;登録(⇒/posts(posts.index))&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;登録済みですか？(⇒login)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="610" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="・index.blade.php&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;つぶやき投稿アプリ(⇒posts.index)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ログアウト(⇒/)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;編集（⇒posts.edit）&lt;/div&gt;&lt;div&gt;削除（&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;⇒posts.index&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="200" x="610" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="・edit.blade.php&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;つぶやき投稿アプリ(⇒posts.index)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;更新（⇒posts.index）&lt;/div&gt;&lt;div&gt;キャンセル&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;⇒posts.index&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="200" x="610" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-25" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="sfmMijFApPu40FoLjzgO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-26" connectable="0" parent="sfmMijFApPu40FoLjzgO-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ログアウト" vertex="1">
+          <mxGeometry relative="1" x="-0.082" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-40" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="sfmMijFApPu40FoLjzgO-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="330" />
+              <mxPoint x="70" y="330" />
+              <mxPoint x="70" y="350" />
+              <mxPoint x="110" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-41" connectable="0" parent="sfmMijFApPu40FoLjzgO-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="つぶやき投稿アプリ" vertex="1">
+          <mxGeometry relative="1" y="-6" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-45" edge="1" parent="1" source="sfmMijFApPu40FoLjzgO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="sfmMijFApPu40FoLjzgO-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="370" />
+              <mxPoint x="220" y="390" />
+              <mxPoint x="250" y="390" />
+              <mxPoint x="250" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfmMijFApPu40FoLjzgO-46" connectable="0" parent="sfmMijFApPu40FoLjzgO-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="削除" vertex="1">
+          <mxGeometry relative="1" x="0.296" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
